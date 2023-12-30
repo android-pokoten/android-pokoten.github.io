@@ -41,3 +41,11 @@ gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick"
+
+gem "jekyll-theme-hacker", "~> 0.2.0"
+
+gem "jekyll-seo-tag", "~> 2.8"
+
+gem "jekyll-remote-theme", "~> 0.4.3"
+
+gem "jekyll-gist", "~> 1.5"
