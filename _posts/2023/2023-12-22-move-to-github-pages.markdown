@@ -2,7 +2,11 @@
 layout: post
 title:  "Blogger から GitHub Pages へ移行します"
 date:   2023-12-22 07:00:08 +0900
-categories: jekyll github ブログ docker
+categories: ブログ
+tags:
+- jekyll
+- docker
+- github
 ---
 ### 背景
 [Blogger][pokotenote] に不満があるわけではないのですが、コードを整形して表示するのが面倒でした。そして、ここにきて突然その表示がされなくなり、どうやっても元通りにならないというのもきっかけです。
