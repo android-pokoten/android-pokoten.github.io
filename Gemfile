@@ -49,3 +49,5 @@ gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-remote-theme", "~> 0.4.3"
 
 gem "jekyll-gist", "~> 1.5"
+
+gem "jekyll-include-cache", group: :jekyll_plugins
