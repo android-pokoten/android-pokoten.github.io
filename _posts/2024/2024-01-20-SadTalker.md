@@ -2,7 +2,7 @@
 layout: post
 title:  "音声にあわせて一枚絵を動かす SadTalker - Stable Diffusion WebUI の拡張機能"
 date:   2024-01-20 00:00:00 +0900
-categories: F1
+categories: プログラム
 tags:
 - python
 - 機械学習
