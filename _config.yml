@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-sitemap
+  - jekyll-paginate
 
 remote_theme: jekyll/minima
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -52,3 +53,5 @@ google_analytics: G-5MJJTPQXS8
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+paginate: 7
