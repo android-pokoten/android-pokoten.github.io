@@ -11,6 +11,7 @@ permalink: /mydevices/
 * ASUS TransBook Mini T103HAF
 
 ## SmartPhone
+* Motorola moto g64 5G
 * OnePlus Nord CE 2 Lite 5G
 * Xiaomi Redmi Note 10T
 * Xiaomi Redmi Note 9T
