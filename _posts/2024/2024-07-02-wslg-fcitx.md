@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Windows11 の WSL2 (WSLg) で 日本語入力"
+title:  "Windows11 の WSL2 (WSLg) で 日本語入力 [2024/8/12 一部修正]"
 date:   2024-07-02 09:00:00 +0900
 categories: プログラム
 tags:
@@ -47,13 +47,7 @@ fi
 im-config -n fcitx5
 {% endhighlight %}
 
-PowerShell のプロンプトから、WSL を再起動します。
-
-{% highlight bash %}
-wsl -t Ubuntu-24.04
-{% endhighlight %}
-
-再度 WSL のプロンプトに入ります。実機に fcitx をインストールする場合は、この時点で fcitx が通知アイコンに表示され、そこから設定を続けるのですが、WSLg の場合はそれが表示されません。そのため、設定ツールをコマンドで起動します。
+設定ツールを起動します。
 
 {% highlight bash %}
 fcitx5-configtool
@@ -63,7 +57,18 @@ fcitx5-configtool
 
 ![configtool][img1]
 
-この状態で、gedit や Firefox などの GUI アプリを起動すると、mozc による日本語入力が可能になります。ただ、ツールバーが表示されないので、現在のモードが日本語入力なのか、直接入力なのかキーを打ってみないとわからないのが不便なところです。
+※当初、WSL を再起動してから設定ツールを起動していましたが、その順番だと設定ツールの内容が初期化されてしまい、毎回設定ツールで Mozc を追加しないと日本語入力ができない状態でした。これは、Fcitx5 の仕様上、デーモン (`-d` をつけて起動した状態) だと設定ファイルの内容が保存されないためのようです。
+
+PowerShell のプロンプトから、WSL を再起動します。
+
+{% highlight bash %}
+wsl -t Ubuntu-24.04
+{% endhighlight %}
+
+この状態で、WSL の Ubuntu 24.04 にインストールした gedit や Firefox などの GUI アプリを起動すると、mozc による日本語入力が可能になります。ただ、ツールバーが表示されないので、現在のモードが日本語入力なのか、直接入力なのかキーを打ってみないとわからないのが不便なところです。
+
+#### 2024/8/12 一部修正
+fcitx5-configtool を実行するタイミングを変更
 
 
 [img1]:/assets/images/2024/07/ss-20240702.png
