@@ -10,6 +10,13 @@ tags:
 - Docker
 - CUDA
 ---
+(2024/8/13 追記)
+YouTube に操作の様子をアップしました。参考にしてみてください。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJ47SCMlTeQ?si=5L-KKD_-CVXhg8Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+--
+
 生成 AI 等をローカルで実行しようとすると、いろいろな依存関係の競合が発生します。Python だけでいえば venv や anaconda といったツールを使うことである程度回避できますが、それだけでは吸収できないような場合もあります。
 
 そんな時は、コンテナを使ってその中に環境を閉じ込めてしまうことで、他への影響が少なくなります。ただ、コンテナの中からハードウェア (CUDA) をたたくためには、少し設定が必要になります。
