@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MacBook Pro (Retina, 13-inch, Late 2012) に OpenSUSE Tumbleweed をインストール"
+title:  "MacBook Pro (Retina, 13-inch, Late 2012) に OpenSUSE Tumbleweed をインストール  [2024/10/14 追記]"
 date:   2024-09-03 09:00:08 +0900
 categories: デバイス
 tags:
@@ -31,7 +31,7 @@ Thunderbolt ポート。Thunderbolt 3 になると USB Type-C と互換性があ
 
 ![thunderbolt][img02]
 
-キーボードは、文字キーはかわらないものの、周辺のキーが全然違います。「Ctrl」キー (表記は「control」) が左横にあり (青丸)、「Alt」は「option」、「Windows キー」は「command」と表記されています (緑丸)。「delete」と表記されているキーは「BackSpace」キーの動作で、「Delete」キーに相当するキーはなく (黄丸)、「PageUp/Down」「Home/End」は Fn キーとカーソルキーの同時押しで実現します (赤丸)。これは Windows PC でもよくある組み合わせですが、印字がないので最初はわかりませんでした。
+キーボードは、文字キーはかわらないものの、周辺のキーが全然違います。「Ctrl」キー (表記は「control」) が左横にあり (青丸)、「Alt」は「option」、「Windows キー」は「command」と表記されています (緑丸)。「delete」と表記されているキーは「BackSpace」キーの動作で、「Fn」と「delete」キーを同時押しすることで「Delete」キーの動作となります (黄丸) [2024/10/14 追記]。「PageUp/Down」「Home/End」は Fn キーとカーソルキーの同時押しで実現します (赤丸)。これは Windows PC でもよくある組み合わせですが、印字がないので最初はわかりませんでした。
 
 ![keyboard][img04]
 
