@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Devices
+title: 所有デバイス一覧
 permalink: /mydevices/
 ---
 ## PC

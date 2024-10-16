@@ -1,0 +1,16 @@
+---
+layout: page
+title: カテゴリ一覧
+permalink: /categories/
+---
+{% for category in site.categories %}
+<article>
+    {% capture category_name %}{{ category | first}}{% endcapture %}
+    <h1 id="tag.{{ category_name }}">{{ category_name }}</h1>
+    <ul>
+        {% for post in site.categories[category_name] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</article>
+{% endfor %}
