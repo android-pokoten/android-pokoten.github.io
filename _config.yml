@@ -21,8 +21,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   ただし、解決方法は金銭的な負担が生じないモノを優先で。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.pokotenote.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: aquamarine02
-github_username:  android-pokoten
 
 # Build settings
 markdown: kramdown
@@ -41,6 +39,14 @@ remote_theme: jekyll/minima
 #remote_theme: pages-themes/cayman
 
 google_analytics: G-5MJJTPQXS8
+
+minima:
+  skin: solarized
+  date_format: "%Y/%m/%d"
+  social_links:
+  - { platform: github,         user_url: "https://github.com/android-pokoten/android-pokoten.github.io" }
+  - { platform: x,              user_url: "https://x.com/aquamarine02" }
+  - { platform: youtube,        user_url: "http://www.youtube.com/mabireci" }
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
