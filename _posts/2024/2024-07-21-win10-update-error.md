@@ -4,9 +4,9 @@ title:  "Windows10 の Windows Update でダウンロードエラー(0x80070643)
 date:   2024-07-21 09:00:08 +0900
 categories: トラブル
 tags:
-- windows10
+- Windows10
 - Windows Update
-- 0x80070643
+- 80070643
 ---
 ### 事象
 Windows10 にて、Windows Update がエラーになることに気が付きました。それも、2024-01 の更新で KB5034441。状態はダウンロードエラー - 0x80070643 です。「再試行」をしても、PC を再起動しても症状は変わりません。

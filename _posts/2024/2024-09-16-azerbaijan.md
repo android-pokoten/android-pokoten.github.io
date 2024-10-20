@@ -4,7 +4,7 @@ title:  "AZERBAIJAN 2024"
 date:   2024-09-16 06:00:08 +0900
 categories: F1
 tags:
-- f1
+- F1
 - 2024シーズン
 - AZERBAIJAN
 ---

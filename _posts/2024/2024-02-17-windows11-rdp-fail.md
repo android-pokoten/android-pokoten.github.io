@@ -4,7 +4,7 @@ title:  "Windows11 の RDP クライアントで資格情報が使えない"
 date:   2024-02-17 09:00:08 +0900
 categories: トラブル
 tags:
-- windows11
+- Windows11
 - RDP
 - 資格情報
 ---

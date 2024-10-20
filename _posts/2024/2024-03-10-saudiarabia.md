@@ -4,9 +4,9 @@ title:  "SAUDI ARABIA 2024"
 date:   2024-03-10 09:00:08 +0900
 categories: F1
 tags:
-- f1
+- F1
 - 2024シーズン
-- サウジアラビア
+- Saudi Arabia
 ---
 ### Ollie Bearman
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eighteen years old and points on his F1 debut 😵<br><br>Take a bow, Ollie Bearman 👏<a href="https://twitter.com/hashtag/F1?src=hash&amp;ref_src=twsrc%5Etfw">#F1</a> <a href="https://twitter.com/hashtag/SaudiArabianGP?src=hash&amp;ref_src=twsrc%5Etfw">#SaudiArabianGP</a> <a href="https://twitter.com/ScuderiaFerrari?ref_src=twsrc%5Etfw">@ScuderiaFerrari</a> <a href="https://t.co/cF2ozAt85l">pic.twitter.com/cF2ozAt85l</a></p>&mdash; Formula 1 (@F1) <a href="https://twitter.com/F1/status/1766553111336771774?ref_src=twsrc%5Etfw">March 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

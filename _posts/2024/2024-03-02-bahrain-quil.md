@@ -4,9 +4,9 @@ title:  "BAHRAIN 2024 - Qualify"
 date:   2024-03-02 09:00:08 +0900
 categories: F1
 tags:
-- f1
+- F1
 - 2024シーズン
-- バーレーン
+- Bahrain
 ---
 ### 予選パフォーマンス
 ![予選パフォーマンス][img01]
