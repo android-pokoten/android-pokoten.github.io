@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "ChromeOS の Linux コンテナを複数用意する"
 date:   2024-06-02 09:00:00 +0900
 categories: トラブル

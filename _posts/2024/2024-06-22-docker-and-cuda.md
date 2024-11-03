@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "WSL2 の Docker で CUDA する"
 date:   2024-06-22 00:00:00 +0900
 categories: プログラム

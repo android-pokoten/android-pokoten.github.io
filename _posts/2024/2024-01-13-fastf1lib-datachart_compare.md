@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "2 ドライバー間のテレメトリデータを重ねてグラフ化する [自作の fastf1 便利ライブラリ]"
 date:   2024-01-13 00:00:00 +0900
 categories: F1

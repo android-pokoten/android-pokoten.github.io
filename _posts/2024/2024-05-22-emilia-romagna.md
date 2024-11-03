@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "EMILIA ROMAGNA 2024"
 date:   2024-05-22 09:00:08 +0900
 categories: F1

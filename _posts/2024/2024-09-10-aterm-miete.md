@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "Aterm の見えて安心ネットの設定が保存できない"
 date:   2024-09-10 09:00:08 +0900
 categories: トラブル

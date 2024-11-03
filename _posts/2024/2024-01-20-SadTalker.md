@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "音声にあわせて一枚絵を動かす SadTalker - Stable Diffusion WebUI の拡張機能"
 date:   2024-01-20 00:00:00 +0900
 categories: プログラム

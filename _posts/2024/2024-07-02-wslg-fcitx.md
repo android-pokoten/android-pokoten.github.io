@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "Windows11 の WSL2 (WSLg) で 日本語入力 [2024/8/12 一部修正]"
 date:   2024-07-02 09:00:00 +0900
 categories: プログラム

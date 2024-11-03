@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "MacBook Pro (Retina, 13-inch, Late 2012) に OpenSUSE Tumbleweed をインストール  [2024/10/14 追記]"
 date:   2024-09-03 09:00:08 +0900
 categories: デバイス

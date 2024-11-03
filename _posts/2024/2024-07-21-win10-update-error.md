@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "Windows10 の Windows Update でダウンロードエラー(0x80070643)"
 date:   2024-07-21 09:00:08 +0900
 categories: トラブル

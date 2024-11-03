@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "GitHub Pages のカスタムドメイン (続き)"
 date:   2024-02-08 09:00:08 +0900
 categories: ブログ

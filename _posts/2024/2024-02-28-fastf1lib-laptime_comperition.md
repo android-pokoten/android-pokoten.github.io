@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "複数ドライバーのラップタイム推移を比較 [自作の fastf1 便利ライブラリ]"
 date:   2024-02-28 09:00:00 +0900
 categories: F1

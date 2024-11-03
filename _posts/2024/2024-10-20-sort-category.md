@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "カテゴリ一覧のタグ名をソートする"
 date:   2024-10-20 09:00:00 +0900
 categories: ブログ

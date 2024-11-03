@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "BAHRAIN 2024 - Qualify"
 date:   2024-03-02 09:00:08 +0900
 categories: F1

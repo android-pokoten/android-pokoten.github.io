@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "GitHub Pages のカスタムドメインを AWS の Route53 で用意する"
 date:   2024-02-07 09:00:08 +0900
 categories: ブログ

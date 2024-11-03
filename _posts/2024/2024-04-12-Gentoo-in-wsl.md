@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "Gentoo Linux を WSL に導入してみた"
 date:   2024-04-12 09:00:00 +0900
 categories: プログラム

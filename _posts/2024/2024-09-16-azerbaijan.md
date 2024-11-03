@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "AZERBAIJAN 2024"
 date:   2024-09-16 06:00:08 +0900
 categories: F1

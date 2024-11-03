@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: 所有デバイス一覧
 permalink: /mydevices/
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "ComfyUI を docker compose で構築する"
 date:   2024-09-05 09:00:00 +0900
 categories: プログラム

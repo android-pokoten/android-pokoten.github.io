@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "BAHRAIN 2024 - Race"
 date:   2024-03-03 09:00:08 +0900
 categories: F1

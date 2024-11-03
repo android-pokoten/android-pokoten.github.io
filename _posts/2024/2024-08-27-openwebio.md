@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "Ollama と OpenWebUI でローカル LLM"
 date:   2024-08-27 09:00:00 +0900
 categories: プログラム

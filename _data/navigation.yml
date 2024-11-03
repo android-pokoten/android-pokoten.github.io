@@ -1,0 +1,11 @@
+main:
+  - title: "about"
+    url: /about/
+  - title: "所有デバイス一覧"
+    url: /mydevices/
+  - title: "カテゴリ一覧"
+    url: /categories/
+  - title: "タグ一覧"
+    url: /tags/
+  - title: "プライバシーポリシー"
+    url: /privacypolicy/

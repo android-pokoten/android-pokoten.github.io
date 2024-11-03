@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "Blogger から GitHub Pages へ移行します"
 date:   2023-12-22 07:00:08 +0900
 categories: ブログ

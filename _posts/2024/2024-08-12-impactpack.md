@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "ComfyUI で顔など画像の一部を再生成する [ltdrdata/ComfyUI-Impact-Pack]"
 date:   2024-08-12 09:00:00 +0900
 categories: プログラム

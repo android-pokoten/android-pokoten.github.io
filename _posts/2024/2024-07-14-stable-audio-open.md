@@ -1,5 +1,5 @@
 ---
-layout: post
+toc: true
 title:  "Stable Audio Open 1.0 を ComfyUI で使ってみる"
 date:   2024-07-14 09:00:00 +0900
 categories: プログラム
