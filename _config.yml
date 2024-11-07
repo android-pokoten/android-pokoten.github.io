@@ -29,7 +29,7 @@ enable_copy_code_button  : true
 
 # Analytics
 analytics:
-  provider         : "google"
+  provider         : "google-gtag"
   google:
     tracking_id    : G-5MJJTPQXS8
 
