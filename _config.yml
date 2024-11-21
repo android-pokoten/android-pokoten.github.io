@@ -26,6 +26,7 @@ locale                   : "ja-JP"
 repository               : "android-pokoten/android-pokoten.github.io"
 words_per_minute         : 100
 enable_copy_code_button  : true
+date_format: "%Y.%m.%d"
 
 # Analytics
 analytics:
@@ -74,3 +75,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      toc_sticky: true
+      show_date: true
