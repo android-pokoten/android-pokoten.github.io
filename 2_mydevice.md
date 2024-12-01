@@ -23,3 +23,4 @@ permalink: /mydevices/
 ## Smart Device
 * Amazon Echo Pop
 * Orvibo Magic Cube
+* Amazon Echo Buds (第2世代)
