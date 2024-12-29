@@ -24,3 +24,7 @@ permalink: /mydevices/
 * Amazon Echo Pop
 * Orvibo Magic Cube
 * Amazon Echo Buds (第2世代)
+
+## Game Console
+* Nintendo Switch
+* PS4
