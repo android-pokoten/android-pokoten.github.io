@@ -129,12 +129,13 @@ void loop() {
 
 ![upload][img13]
 
-アップロードが行われ、こちらも「SUCCESS」と表示されれば OK です。この状態で AtomS3 の画面には、「Hello World」と表示されているはずです。
+アップロードが行われ、こちらも「SUCCESS」と表示されれば OK です。
 
-![hello World][img14]
+![upload success][img14]
 
+この状態で AtomS3 の画面には、「Hello World」と表示されているはずです。
 
-
+![hello World][img15]
 
 [usbipd]:{% post_url 2025/2025-01-27-stampfly-ardupilot %}
 
@@ -152,4 +153,4 @@ void loop() {
 [img12]:/assets/images/2025/01/ss-20250204-12.png
 [img13]:/assets/images/2025/01/ss-20250204-13.png
 [img14]:/assets/images/2025/01/ss-20250204-14.png
-[img15]:/assets/images/2025/01/ss-20250204-15.png
+[img15]:/assets/images/2025/01/ss-20250204-15.jpg
