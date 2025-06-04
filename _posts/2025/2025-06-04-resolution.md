@@ -47,7 +47,7 @@ Find Nearest Bucket ノードの「base_resolution」を変更すると、出力
 </video>
 
 ## base_resolution = 320
-さらに減らして「base_resolution」を `320` にしてみると、生成時間は 389 秒。11 分程度です。
+さらに減らして「base_resolution」を `320` にしてみると、生成時間は 389 秒。6 分程度です。
 
 ![320][img04]
 
