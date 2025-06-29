@@ -38,7 +38,7 @@ analytics:
 author:
   name             : "Pokoten"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "購入したデバイスのレビューや、PC、スマートフォンの不具合対処方法、Python や機械学習での試行錯誤をメモしていきます。ただし、解決方法は金銭的な負担が生じないモノを優先で。"
+  bio              : "購入したデバイスのレビューや、PC、スマートフォンの不具合対処方法、Python や機械学習での試行錯誤をメモしていきます。ただし、解決方法は金銭的な負担が生じないモノを優先で。お問い合わせについては上部の「about」リンク先のフォームからお願いいたします。"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
