@@ -8,6 +8,7 @@ tags:
 - fastf1
 - fastf1lib
 - data
+noindex: true
 ---
 自作ライブラリのメソッドを紹介します。まずは`datachart_compare`です。前回の記事の通り、`ff1`オブジェクトを作成しておくのと、セッションを読み込んでおいてからの実行となります。
 

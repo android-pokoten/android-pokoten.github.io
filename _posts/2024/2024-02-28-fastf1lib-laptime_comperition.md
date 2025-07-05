@@ -8,6 +8,7 @@ tags:
 - fastf1
 - fastf1lib
 - data
+noindex: true
 ---
 自作ライブラリのメソッドを紹介します。今回は`laptime_comperition`です。以下の記事の通り、`ff1`オブジェクトを作成しておくのと、セッションを読み込んでおいてからの実行となります。
 
