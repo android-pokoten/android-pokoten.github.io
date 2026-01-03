@@ -28,3 +28,4 @@ permalink: /mydevices/
 ## Game Console
 * Nintendo Switch
 * PS4
+* Nintendo Switch2
