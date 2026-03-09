@@ -14,8 +14,8 @@ permalink: /mydevices/
 ## SmartPhone
 * Motorola moto g64 5G
 * OnePlus Nord CE 2 Lite 5G
-* Xiaomi Redmi Note 10T
 * Xiaomi Redmi Note 9T
+* Oppo Reno 13A
 
 ## Tablet
 * Amazon Fire HD 10 (Gen11)
