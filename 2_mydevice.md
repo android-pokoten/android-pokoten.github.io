@@ -29,3 +29,6 @@ permalink: /mydevices/
 * Nintendo Switch
 * PS4
 * Nintendo Switch2
+
+## 3D Printer
+* Bambu Lab A1 mini
