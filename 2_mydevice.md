@@ -16,6 +16,7 @@ permalink: /mydevices/
 * OnePlus Nord CE 2 Lite 5G
 * Xiaomi Redmi Note 9T
 * Oppo Reno 13A
+* motorola edge 50s pro
 
 ## Tablet
 * Amazon Fire HD 10 (Gen11)
