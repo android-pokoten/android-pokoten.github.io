@@ -5,7 +5,6 @@ permalink: /mydevices/
 ---
 ## PC
 * ThinkPad X280
-* Dell XPS13(9328)
 * UNITCOM (型番不明, GeForce RTX2070搭載)
 * Apple MacBook Pro (Retina, 13-inch, Late 2012)
 * ThinkPad T480
@@ -14,7 +13,6 @@ permalink: /mydevices/
 ## SmartPhone
 * Motorola moto g64 5G
 * OnePlus Nord CE 2 Lite 5G
-* Xiaomi Redmi Note 9T
 * Oppo Reno 13A
 * motorola edge 50s pro
 
